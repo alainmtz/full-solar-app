@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "842723396186",
+    "project_id": "fulltime-mtz",
+    "storage_bucket": "fulltime-mtz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842723396186:android:cad8f0977ace6c2968a663",
+        "android_client_info": {
+          "package_name": "bio.fulltimeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842723396186-o8k8t207tqj916r1g47l4qconjsl1au6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bio.fulltimeshop",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "842723396186-c91tvvd27b0sit82ageu37mbgfusc64s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WiMM7jQdFL5FHIAZF6sQDAI6FzeAESk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842723396186-c91tvvd27b0sit82ageu37mbgfusc64s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842723396186-p29h7ibvf6lfqu63taharil45i8920pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bio.fulltimeshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842723396186:android:d0eac694f754155b68a663",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842723396186-c91tvvd27b0sit82ageu37mbgfusc64s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WiMM7jQdFL5FHIAZF6sQDAI6FzeAESk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842723396186-c91tvvd27b0sit82ageu37mbgfusc64s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842723396186-p29h7ibvf6lfqu63taharil45i8920pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bio.fulltimeshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
